@@ -25,7 +25,7 @@ Model trained using this dataset:
 
 
 Acknowledgments
-Built using Ultralytics YOLOv8
-Dataset from Roboflow
+Built using Ultralytics YOLOv8,
+Dataset from Roboflow,
 Twilio API for SMS integration
 
